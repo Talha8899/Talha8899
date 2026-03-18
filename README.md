@@ -25,10 +25,6 @@ with a focus on Django and PostgreSQL.
 | [django](https://github.com/Talha8899/django) | Forked — reading the codebase to understand how a large open-source project is structured |
 
 ---
-📈 GitHub Stats
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Talha8899&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&hide=contribs" />
-  &nbsp;
 
 
 ### Get in touch
