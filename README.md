@@ -12,7 +12,7 @@ with a focus on Django and PostgreSQL.
 
 - **Languages** — Python, Java, SQL, Bash
 - **Databases** — PostgreSQL, MySQL
-- **Tools** — Git, Linux, VS Code, docker, IntelliJ IDEA
+- **Tools** — Git, Linux, VS Code, Docker, IntelliJ IDEA
 
 ---
 
