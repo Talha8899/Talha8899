@@ -81,13 +81,6 @@ talha = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Talha8899&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
 
 ### 📌 Featured Repositories
 
@@ -121,7 +114,7 @@ talha = {
 
 ### 🔥 What I'm Currently Working On
 
-- 🔍 Studying the **Django** codebase and exploring good-first-issues
+- 🔍 Studying the **Django** codebase 
 - 🛠️ Building Python CLI tools and strengthening my Java OOP skills
 - 📖 Researching **GSoC 2026** organisations and reading past proposals
 - 💡 Learning software design principles: SOLID, DRY, Clean Code
