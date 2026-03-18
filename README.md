@@ -2,39 +2,74 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Talha8899&color=blue)
 
-Software Engineering Student @ The Islamia University of Bahawalpur, Pakistan  
-3rd year — building things with Python and Java, learning in public.
-
-Currently studying open-source codebases and preparing for **GSoC 2026**,  
-with a focus on Django and PostgreSQL.
+**Software Engineering Student** @ The Islamia University of Bahawalpur, Pakistan | 3rd Year  
+Building scalable solutions with Python and Java | Contributing to Open Source
 
 ---
 
-## Tech Stack
+## 🎯 About Me
 
-**Languages** — Python, Java, SQL, Bash  
-**Databases** — PostgreSQL, MySQL  
-**Frameworks** — Django  
-**Tools** — Git, Linux, VS Code, Docker, IntelliJ IDEA  
+I'm passionate about **backend development**, **system design**, and **open-source contribution**. Currently preparing for **GSoC 2026** with focus on **Django** and **PostgreSQL**.
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [python-mini-projects](https://github.com/Talha8899/python-mini-projects) | CLI tools built while learning Python — todo app, password generator, number game, temp converter |
-| [Java-practice](https://github.com/Talha8899/Java-practice) | OOP concepts, arrays, exception handling — committed as I learn |
-| [django](https://github.com/Talha8899/django) | Forked — reading the codebase to understand how a large open-source project is structured |
+**What I do:**
+- 🔨 Build CLI tools and web applications
+- 📖 Learn from large open-source codebases
+- 🚀 Contribute to meaningful projects
+- 💡 Share knowledge publicly
 
 ---
 
-## 💬 Connect
+## 🛠️ Tech Stack
 
-📧 [talhaabdulsattar65@gmail.com](mailto:talhaabdulsattar65@gmail.com)  
-💼 [linkedin.com/in/talha-abdul-sattar-4b4926389](https://www.linkedin.com/in/talha-abdul-sattar-4b4926389)  
-🔗 [GitHub](https://github.com/Talha8899)
+**Languages:** Python · Java · SQL · Bash · JavaScript  
+**Databases:** PostgreSQL · MySQL  
+**Frameworks:** Django · REST APIs  
+**Tools & Platforms:** Git · Linux · Docker · VS Code · IntelliJ IDEA · GitHub  
 
 ---
 
-**Open to contributing to open-source projects and collaborating on impactful ideas.** 🚀
+## 📁 Featured Projects
+
+| Project | What I Built | Key Skills |
+|---------|-------------|-----------|
+| **[python-mini-projects](https://github.com/Talha8899/python-mini-projects)** | CLI tools: todo app, password generator, number game, unit converter | Python, CLI Design |
+| **[Java-practice](https://github.com/Talha8899/Java-practice)** | Core OOP concepts, arrays, exception handling, data structures | OOP, Java Fundamentals |
+| **[django](https://github.com/Talha8899/django)** | Deep dive into Django source code & architecture | Web Framework Design |
+
+---
+
+## 🎓 Currently Learning
+
+- 🔍 Django internals and best practices
+- 🗄️ PostgreSQL query optimization
+- 🏗️ System design principles
+- 🔐 Backend security practices
+- 🐳 Container orchestration & DevOps basics
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively looking for opportunities to:
+- Contribute to **Django-related projects**
+- Work on **backend systems** and **APIs**
+- Participate in **GSoC 2026**
+- Learn from experienced developers
+
+---
+
+## 💬 Get In Touch
+
+<div align="center">
+
+📧 **Email:** [talhaabdulsattar65@gmail.com](mailto:talhaabdulsattar65@gmail.com)  
+💼 **LinkedIn:** [talha-abdul-sattar](https://www.linkedin.com/in/talha-abdul-sattar-4b4926389)  
+🐙 **GitHub:** [@Talha8899](https://github.com/Talha8899)
+
+</div>
+
+---
+
+<p align="center">
+  <em>"Code with purpose, learn with passion, contribute with impact."</em> ✨
+</p>
