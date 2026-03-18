@@ -10,15 +10,7 @@ with a focus on Django and PostgreSQL.
 
 ---
 
-## 📊 GitHub Stats
-
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talha8899&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha8899&layout=compact&theme=tokyonight)
-
----
-
-## What I'm working with
+## Tech Stack
 
 **Languages** — Python, Java, SQL, Bash  
 **Databases** — PostgreSQL, MySQL  
@@ -27,7 +19,7 @@ with a focus on Django and PostgreSQL.
 
 ---
 
-## 🚀 Repositories
+## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -37,7 +29,7 @@ with a focus on Django and PostgreSQL.
 
 ---
 
-## 💬 Get in touch
+## 💬 Connect
 
 📧 [talhaabdulsattar65@gmail.com](mailto:talhaabdulsattar65@gmail.com)  
 💼 [linkedin.com/in/talha-abdul-sattar-4b4926389](https://www.linkedin.com/in/talha-abdul-sattar-4b4926389)  
@@ -45,4 +37,4 @@ with a focus on Django and PostgreSQL.
 
 ---
 
-**Currently open to contributing to open-source projects and collaborating on exciting ideas!** 🚀
+**Open to contributing to open-source projects and collaborating on impactful ideas.** 🚀
