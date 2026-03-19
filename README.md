@@ -9,7 +9,7 @@ Building scalable solutions with Python and Java | Contributing to Open Source
 
 ## 🎯 About Me
 
-I'm passionate about **backend development**, **system design**, and **open-source contribution**. Currently preparing for **GSoC 2026** with focus on **Django** and **PostgreSQL**.
+I'm passionate about **backend development**, **system design**, and **open-source contribution**. Currently preparing for **GSoC 2026**.
 
 **What I do:**
 - 🔨 Build CLI tools and web applications
