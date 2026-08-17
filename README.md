@@ -1,158 +1,146 @@
 # Talha Abdul Sattar
 
-> Software Engineering student focused on backend engineering, cloud-native systems, and open-source development.
->
-> I build practical APIs and backend services with Python, FastAPI, PostgreSQL, SQLAlchemy, and Docker, while expanding into Kubernetes, cloud infrastructure, and AI/agentic systems.
+**Backend Engineer in Development · Cloud‑Native & Open Source Enthusiast · Future AI/Agent Infrastructure Engineer**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python%20%7C%20PostgreSQL-1f425f" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-Docker%20%7C%20Kubernetes%20%7C%20CI%2FCD-0A66C2" alt="Cloud and DevOps" />
-  <img src="https://img.shields.io/badge/AI%20Direction-Agents%20%7C%20Infrastructure-8A2BE2" alt="AI direction" />
-</p>
-
-## 👨‍💻 About Me
-
-I’m a final-year BS Software Engineering student at Islamia University Bahawalpur (IUB), Pakistan.
-
-My current focus is building reliable backend systems, learning production engineering practices, and developing toward cloud-native and infrastructure-oriented roles.
-
-## 🚀 Currently Building & Learning
-
-- Production-style REST APIs with FastAPI
-- PostgreSQL database-backed applications
-- Authentication and authorization
-- JWT-based security
-- Dockerized applications
-- Containerized development
-- Kubernetes fundamentals
-- Cloud-native architecture
-- CI/CD
-- Open-source contribution
-- AI-assisted developer tooling
-- AI agents and agentic systems
-- AI infrastructure concepts
-
-## 🛠️ Tech Stack
-
-### Languages
-
-| Python | Java | SQL | Bash / Linux |
-|---|---|---|---|
-| Intermediate | Intermediate | Core | Fundamentals |
-
-### Backend
-
-| FastAPI | Django | Flask | REST APIs | Pydantic | SQLAlchemy |
-|---|---|---|---|---|---|
-| JWT Auth | OAuth2 fundamentals | Password hashing | API validation | CRUD APIs | AuthN/AuthZ |
-
-### Databases
-
-| PostgreSQL | MySQL | SQL | Database design | SQLAlchemy ORM |
-|---|---|---|---|---|
-
-### DevOps & Cloud
-
-| Docker | Dockerfiles | Images & Containers | Multi-stage builds | Container debugging |
-|---|---|---|---|---|
-| Git | GitHub | CI/CD fundamentals | Kubernetes fundamentals | Cloud fundamentals | Linux |
-
-### Tools
-
-| Swagger / OpenAPI | Postman | Uvicorn | VS Code |
-|---|---|---|---|
-
-## 📌 Featured Project
-
-### [User Management API](https://github.com/Talha8899/user-managment-api)
-
-A backend User Management API built with Python, FastAPI, PostgreSQL, SQLAlchemy, and Pydantic.
-
-**Highlights**
-
-- RESTful API
-- CRUD operations
-- PostgreSQL persistence
-- SQLAlchemy ORM
-- Pydantic validation
-- JWT authentication
-- Password hashing
-- Dependency injection
-- API documentation with Swagger/OpenAPI
-- Postman testing
-- Modular router structure
-
-## 🌐 Open Source & Cloud Native
-
-I’m actively exploring the cloud-native ecosystem and working toward meaningful open-source contributions in areas such as:
-
-- Kubernetes ecosystem
-- CNCF projects
-- Podman
-- Meshery
-- Meshery MCP
-- KubeEdge / Ianvs
-- Kubeflow Spark Client
-- Agentic CI
-- Container tooling
-- AI-assisted developer tools
-
-I’m especially interested in how backend systems evolve into platform, cloud-native, and infrastructure-focused engineering work.
-
-## 🎯 Career Roadmap
-
-### Phase 1 — Near Term
-1. Backend Engineer
-2. DevOps Engineer
-3. Cloud Engineer
-
-### Phase 2 — Cloud-Native Engineering
-4. Cloud-Native Engineer
-5. Platform Engineer
-6. Kubernetes Engineer
-7. DevTools Engineer
-
-### Phase 3 — AI + Infrastructure
-8. AI Engineer
-9. AI Agent Engineer / Agent Engineer
-10. AI Infrastructure Engineer
-11. AIOps Engineer
-
-### Phase 4 — Advanced Platform / Data / ML Infrastructure
-12. ML Platform Engineer
-13. Data Platform Engineer
-14. ML Engineer
-15. Data Engineer
-
-### Roadmap
-
-Backend Engineering
-↓
-DevOps + Cloud
-↓
-Cloud-Native Engineering
-↓
-Platform / Kubernetes / DevTools
-↓
-AI Engineering + AI Agents
-↓
-AI Infrastructure / AIOps
-↓
-ML Platform / Data Platform specialization
-
-## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talha8899&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha8899&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-## 🤝 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/talha-abdul-sattar-4b4926389
-- Email: talhaabdulsattar65@gmail.com
-- GitHub: [@Talha8899](https://github.com/Talha8899)
+I am a final‑year BS Software Engineering student focused on building production‑quality backend systems with Python, FastAPI, PostgreSQL and Docker. I am progressing toward cloud‑native and platform engineering (Kubernetes, CI/CD) and learning how to contribute effectively to open‑source and AI infrastructure projects.
 
 ---
 
-**Backend Engineer in development → Cloud-Native / Platform Engineer → AI & Infrastructure Engineer**
+<!-- Tech strip -->
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />&nbsp;
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />&nbsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-31648A?logo=postgresql&logoColor=white" />&nbsp;
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />&nbsp;
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />&nbsp;
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
+
+---
+
+## About
+- Degree: BS Software Engineering — The Islamia University of Bahawalpur (final year)  
+- Current focus: Backend Engineering → Cloud & DevOps → Cloud‑Native / Platform Engineering → AI/Agent Infrastructure  
+- Core engineering identity: Build reliable backend APIs, secure auth flows, and reproducible deployments; grow into cloud‑native systems and developer/platform tooling.
+
+---
+
+## 🚀 Current Focus
+
+| Area | Focus (what I build / learn) |
+|---|---|
+| Backend | FastAPI, SQLAlchemy, Pydantic, REST API design, auth & JWT, secure password storage |
+| Data & DB | PostgreSQL, schema design, migrations, query correctness and indexing |
+| Containers | Docker (multi‑stage builds), container debugging, reproducible dev images |
+| Cloud‑Native | Kubernetes fundamentals, service patterns, observability concepts |
+| DevOps | CI/CD basics, automation, Git workflow, deployments |
+| Open Source & AI | Exploring CNCF projects, agentic systems, AI infra and developer tooling |
+
+---
+
+## Featured project — User Management API
+
+| Project | Summary |
+|---:|:---|
+| **User Management API** | A production‑oriented backend for user management: FastAPI + SQLAlchemy + PostgreSQL, modular routers, Pydantic models, JWT auth, secure password hashing, OpenAPI documentation and Postman collections for testing. |
+| Link | View repository → https://github.com/Talha8899/user-managment-api |
+
+Key points:
+- Clear router/dependency structure for maintainability
+- Authentication: JWT, secure password hashing
+- API validation & docs: Pydantic + OpenAPI (Swagger)
+- Postman collection and instructions included for manual testing
+
+---
+
+## 🌐 Open Source & Cloud‑Native (positioning)
+
+I am actively learning and preparing to contribute to projects in the cloud‑native ecosystem. Areas I follow and explore (interest‑only — not a claim of membership or maintainership):
+
+- Kubernetes ecosystem and container tooling (Podman, container runtimes)  
+- Meshery & Meshery MCP, KubeEdge, Kubeflow Spark Client  
+- CI/CD and developer tooling (Agentic CI, integrations)  
+- AI‑assisted developer tooling and agentic systems
+
+My goal: contribute practical changes (docs, CI fixes, small bugfixes and integrations) while learning how large CNCF projects are organized.
+
+---
+
+## Skills
+
+### Languages
+Python · Java · SQL · Bash / Linux fundamentals
+
+### Backend & APIs
+FastAPI · SQLAlchemy · Pydantic · REST API design · JWT · OAuth2 fundamentals · Authentication & Authorization
+
+### Databases
+PostgreSQL · MySQL · SQL · Database design · ORM
+
+### Cloud / DevOps
+Docker · Kubernetes (fundamentals) · CI/CD basics · Linux · Git / GitHub
+
+### Tooling
+OpenAPI / Swagger · Postman · Uvicorn · VS Code
+
+---
+
+## 📚 Currently learning / strengthening
+1. Advanced FastAPI patterns and production‑grade architectures  
+2. Docker best practices (multi‑stage builds, image size, debugging)  
+3. Kubernetes fundamentals and cloud‑native patterns  
+4. CI/CD workflows and reproducible deployments  
+5. Open‑source contribution workflows and maintainer expectations  
+6. Agentic systems and AI infrastructure basics
+
+---
+
+## Career roadmap (progression)
+
+### 🧱 Foundation — Backend Engineer
+Python → FastAPI → PostgreSQL → Authentication → Testing & APIs
+
+↓
+
+### ☁️ Infrastructure — DevOps / Cloud
+Docker → Reproducible images → CI/CD → Linux fundamentals
+
+↓
+
+### ☸️ Cloud‑Native / Platform
+Kubernetes → Service patterns → Observability → Platform automation
+
+↓
+
+### 🛠️ Developer Infrastructure & AI
+Developer tooling → agentic CI → AI systems → AI infrastructure engineering
+
+> This roadmap expresses my planned trajectory from backend engineering toward platform and AI infrastructure responsibilities.
+
+---
+
+## GitHub statistics
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha8899&show_icons=true&count_private=true&theme=default)](https://github.com/Talha8899)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha8899&layout=compact&theme=default)](https://github.com/Talha8899)
+
+(If you prefer fewer dynamic cards or a different theme, these can be adjusted. These endpoints are standard, widely used GitHub README cards.)
+
+---
+
+## How I work — short
+- Deliver small, tested increments with clear API contracts and documentation.  
+- Prefer reproducible local environments (Docker) and readable code.  
+- Communicate clearly in issues and PRs; open to mentorship, pair programming, and constructive reviews.
+
+---
+
+## Connect
+
+- GitHub: https://github.com/Talha8899  
+- Email: talhaabdulsattar65@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/talha-abdul-sattar-4b4926389
+
+---
+
+Building backend systems today — moving toward cloud‑native and AI infrastructure tomorrow.
