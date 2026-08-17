@@ -121,10 +121,7 @@ Developer tooling → agentic CI → AI systems → AI infrastructure engineerin
 
 ## GitHub statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha8899&show_icons=true&count_private=true&theme=default)](https://github.com/Talha8899)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha8899&layout=compact&theme=default)](https://github.com/Talha8899)
-
-(If you prefer fewer dynamic cards or a different theme, these can be adjusted. These endpoints are standard, widely used GitHub README cards.)
+![Profile views](https://komarev.com/ghpvc/?username=Talha8899&color=blue)
 
 ---
 
