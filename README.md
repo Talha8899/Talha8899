@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a final-year BS Software Engineering student at Islamia University Bahawalpur (IUB), Pakistan, with a CGPA of 3.38.
+I’m a final-year BS Software Engineering student at Islamia University Bahawalpur (IUB), Pakistan.
 
 My current focus is building reliable backend systems, learning production engineering practices, and developing toward cloud-native and infrastructure-oriented roles.
 
